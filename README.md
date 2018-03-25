@@ -6,7 +6,7 @@ This is basic configuration for React (created at 25.03.2018)
 - Webpack 4.2.0
 - Typescript 2.7.2
 - React 16.2.0
-
+- Extended with SASS
 
 ## Start
 
