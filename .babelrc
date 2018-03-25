@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "@babel/present-env",
+    "@babel/stage-3",
+    "@babel/react",
+    "@babel/present-typescript"
+  ]
+}
